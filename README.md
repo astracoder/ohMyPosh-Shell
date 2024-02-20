@@ -1,5 +1,5 @@
 <h1 align="center">
-  Quiz Cars Game
+  OH MY POSH - SHELL
 </h1>
 
 <h1 align="center">
